@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "63c78566ee69e3e655521f75",
+    "name": "Cardiology",
+    "image": "medical-1.png",
+    "price": 500,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, accusamus"
+  },
+  {
+    "_id": "63c785665d6169b38395322e",
+    "name": "Dental",
+    "image": "medical.png",
+    "price": 400,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, accusamus"
+  },
+  {
+    "_id": "63c785666a24e25a9e6fe714",
+    "name": "Neurology",
+    "image": "brain.png",
+    "price": 300,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, accusamus"
+  },
+  {
+    "_id": "63c785664fa9a8a4a8994922",
+    "name": "Diagnosis",
+    "image": "examination.png",
+    "price": 500,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, accusamus"
+  },
+  {
+    "_id": "63c785665b53ce02c0a03214",
+    "name": "Lungs",
+    "image": "lungs.png",
+    "price": 250,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, accusamus"
+  },
+  {
+    "_id": "63c785666f1d8fb427e61bc0",
+    "name": "Consulting",
+    "image": "healthy.png",
+    "price": 200,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, accusamus"
+  }
+]
